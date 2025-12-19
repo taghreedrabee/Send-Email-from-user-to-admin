@@ -1,0 +1,6 @@
+@palmHillsapp_HostAddress = http://localhost:5043
+
+GET {{palmHillsapp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "tZrbGAzo6Cg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Excellent Store\\source\\repos\\palmHillsapp\\palmHillsapp\\palmHillsapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Excellent Store\\.nuget\\packages\\bouncycastle.cryptography\\2.6.1\\bouncycastle.cryptography.2.6.1.nupkg.sha512",
+    "C:\\Users\\Excellent Store\\.nuget\\packages\\mailkit\\4.14.1\\mailkit.4.14.1.nupkg.sha512",
+    "C:\\Users\\Excellent Store\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\Excellent Store\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.1\\microsoft.entityframeworkcore.10.0.1.nupkg.sha512",
+    "C:\\Users\\Excellent Store\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.1\\microsoft.entityframeworkcore.abstractions.10.0.1.nupkg.sha512",
+    "C:\\Users\\Excellent Store\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.1\\microsoft.entityframeworkcore.analyzers.10.0.1.nupkg.sha512",
+    "C:\\Users\\Excellent Store\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\Excellent Store\\.nuget\\packages\\mimekit\\4.14.0\\mimekit.4.14.0.nupkg.sha512",
+    "C:\\Users\\Excellent Store\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
